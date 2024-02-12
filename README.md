@@ -34,4 +34,4 @@ The "Employee Management System" is a web application designed to streamline the
 6. **Print Option:**
    - The system includes a print option, enabling users to generate printable reports or documents. This feature is valuable for creating hard copies of important data, reports, or summaries, supporting documentation and record-keeping needs.
 
-Overall, the Employee Management System in Laravel 10x provides a comprehensive solution for businesses or organizations to manage their workforce efficiently. Leveraging the capabilities of the Laravel framework ensures a robust and scalable application, while the diverse set of features contributes to a more streamlined and organized employee management process.
+the Employee Management System in Laravel 10x provides a comprehensive solution for businesses or organizations to manage their workforce efficiently. Leveraging the capabilities of the Laravel framework ensures a robust and scalable application, while the diverse set of features contributes to a more streamlined and organized employee management process.
