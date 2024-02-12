@@ -1,67 +1,37 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+![login](https://github.com/NIsaltharaka/Employee-management-system-Laravel10x/assets/134293075/72fdf00d-32cd-4915-8ea7-2d0c3e966e2a)
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![register](https://github.com/NIsaltharaka/Employee-management-system-Laravel10x/assets/134293075/808246bb-3a4f-42db-8350-d8dc022642da)
 
-## About Laravel
+![forgot](https://github.com/NIsaltharaka/Employee-management-system-Laravel10x/assets/134293075/8d1691d7-2b8a-481f-ad7c-1950ac8bf22c)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+![sweetaleart](https://github.com/NIsaltharaka/Employee-management-system-Laravel10x/assets/134293075/bba3b76e-ff1b-4041-8bc8-5ae92c728edd)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![dashboard](https://github.com/NIsaltharaka/Employee-management-system-Laravel10x/assets/134293075/c2384688-383f-43e9-99d0-d29d61732b75)
 
-## Learning Laravel
+![add](https://github.com/NIsaltharaka/Employee-management-system-Laravel10x/assets/134293075/0f6b6008-fbdf-4fa4-ab8e-aeb2c299638e)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+![chart](https://github.com/NIsaltharaka/Employee-management-system-Laravel10x/assets/134293075/7242092a-d69c-464d-935f-f0bffdcde5bc)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+The "Employee Management System" is a web application designed to streamline the management of employee-related tasks and data. Developed using the Laravel PHP framework (specifically Laravel 10x), this system incorporates a variety of essential features to enhance the overall efficiency and organization of employee management. Here's a detailed description of its key components:
 
-## Laravel Sponsors
+1. **Login and Registration:**
+   - The system provides a secure and user-friendly login and registration system. Employees can create accounts and log in securely, ensuring access is restricted to authorized personnel.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+2. **Forgot Password Option:**
+   - To enhance user experience, a password recovery mechanism is implemented. Users can reset their passwords through a secure process, typically involving email notifications and password reset links.
 
-### Premium Partners
+3. **Dashboard:**
+   - The dashboard serves as the central hub for users, offering a visually appealing and informative interface. It provides a quick overview of important information and links to various features, contributing to a seamless user experience.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+4. **CRUD Operations:**
+   - CRUD functionality (Create, Read, Update, Delete) is integrated into the system for efficient management of employee data. Users can add new employee records, view existing information, update details, and remove records as needed.
 
-## Contributing
+5. **Bar Charts:**
+   - The inclusion of bar charts indicates a focus on data visualization. Bar charts are likely employed to represent key metrics visually, facilitating a quick and intuitive understanding of employee-related data trends or performance indicators.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+6. **Print Option:**
+   - The system includes a print option, enabling users to generate printable reports or documents. This feature is valuable for creating hard copies of important data, reports, or summaries, supporting documentation and record-keeping needs.
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# Employee-management-system-Laravel10x" 
+Overall, the Employee Management System in Laravel 10x provides a comprehensive solution for businesses or organizations to manage their workforce efficiently. Leveraging the capabilities of the Laravel framework ensures a robust and scalable application, while the diverse set of features contributes to a more streamlined and organized employee management process.
